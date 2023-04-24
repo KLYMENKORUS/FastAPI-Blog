@@ -1,4 +1,4 @@
-<h1>Проект Todo</h1>
+<h1>Проект FastAPI-Blog</h1>
     <p>
       Этот проект является простым API для блога, созданным с использованием <a href="https://fastapi.tiangolo.com/">FastAPI</a>.
     </p>
